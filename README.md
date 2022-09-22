@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Epicrae
 - Im currently learning advanced C++ at DVC college 
--Im adding some exercises and assignemtnt.
+
