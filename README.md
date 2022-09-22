@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Epicrae
 - Im currently learning advanced C++ at DVC college 
-- I'm starting the odin project on 8/11
+
